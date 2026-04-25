@@ -1,4 +1,4 @@
-# A Suggested Code of Practice for Ethical AI Skill Development
+# A Suggested Code of Practice for Responsible AI Skill Development
 
 Skills designed to help ordinary users work with websites — handling logins, navigating anti-bot friction, occasionally working through CAPTCHAs — necessarily encode knowledge about how those sites defend themselves. That knowledge is dual-use. The practices below aim to preserve the legitimate utility of a skill while reducing the surface area available to bad actors who might fork, study, or reverse-engineer it.
 

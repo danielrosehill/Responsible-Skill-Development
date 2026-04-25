@@ -1,6 +1,6 @@
-# Ethical Skill Development
+# Responsible Skill Development
 
-A small collection of notes and a paste-ready snippet proposing a **Code of Practice for Ethical AI Skill Development** — aimed at developers building Claude / agentic-AI skills that interact with the open web.
+A small collection of notes and a paste-ready snippet proposing a **Code of Practice for Responsible AI Skill Development** — aimed at developers building Claude / agentic-AI skills that interact with the open web.
 
 ## Why this exists
 

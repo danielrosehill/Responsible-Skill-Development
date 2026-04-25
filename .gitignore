@@ -1,0 +1,5 @@
+# Local-only drafts. Not for publication via this repo.
+/drafts/
+
+# Typst compile artefacts
+*.aux
